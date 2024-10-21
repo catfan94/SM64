@@ -1,0 +1,58 @@
+body, html{
+    height: 100%;
+    margin: 0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    font-size: 35px;
+    margin: auto;
+}
+h2{
+    font-size: 27px;
+    margin-bottom: 30px;
+    margin-left: 43%;
+}
+.parallax-section{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:black;
+}
+
+#section1{
+    background-image: url(images/CCM.jpg);
+}
+#section2{
+    background-image: url(images/CCM.jpg);
+
+}
+#section3{
+    background-image: url(images/CCM.jpg);
+
+}
+#section4{
+    background-image: url(images/CCM.jpg);
+   
+}
+.content-section{
+    background-color: lightskyblue;
+    padding: 20px;
+    text-align: center;
+}
+.content-section p{
+    margin: 0 auto;
+    width: 70%;
+    font-size: 1.2rem;
+    color: aliceblue;
+    font-weight: bold;
+}
+img{
+    margin-left: 37%;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
